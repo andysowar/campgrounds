@@ -1,0 +1,25 @@
+{
+  "name": "v1",
+  "version": "1.0.0",
+  "description": "Coursework for my full stack web development class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andysowar/yelpcamp.git"
+  },
+  "author": "Andy Sowar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andysowar/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/andysowar/yelpcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.4"
+  }
+}
